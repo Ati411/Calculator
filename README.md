@@ -25,4 +25,8 @@ private void button1_Click(object sender, EventArgs e)
     // ที่ตัวแปรชื่อ result
     // มีคุณสมบัติชื่อ Text
     result.Text = iResult.ToString(); // .ToString = แปรค่าเป็น str
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> cc398cb9d5d442c2c44d2eefbbdb117f73fcd749
