@@ -1,0 +1,10 @@
+D:\CS\102\Vs\Winform\Winform\bin\Debug\Winform.exe.config
+D:\CS\102\Vs\Winform\Winform\bin\Debug\Winform.exe
+D:\CS\102\Vs\Winform\Winform\bin\Debug\Winform.pdb
+D:\CS\102\Vs\Winform\Winform\obj\Debug\WinformCalculator.csproj.AssemblyReference.cache
+D:\CS\102\Vs\Winform\Winform\obj\Debug\Winform.Form1.resources
+D:\CS\102\Vs\Winform\Winform\obj\Debug\Winform.Properties.Resources.resources
+D:\CS\102\Vs\Winform\Winform\obj\Debug\WinformCalculator.csproj.GenerateResource.cache
+D:\CS\102\Vs\Winform\Winform\obj\Debug\WinformCalculator.csproj.CoreCompileInputs.cache
+D:\CS\102\Vs\Winform\Winform\obj\Debug\Winform.exe
+D:\CS\102\Vs\Winform\Winform\obj\Debug\Winform.pdb
